@@ -1,1 +1,2 @@
-# puppy is a practice repo
+# puppy
+a practice repo
